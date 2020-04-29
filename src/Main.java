@@ -9,9 +9,8 @@ public class Main {
 		
 		//Setting up the window settings
 		f1.setTitle("Snake");
-		f1.setSize(300,300);
+		f1.setSize(500,500); // window size 300*300 -> 500*500
 		f1.setVisible(true);
-		f1.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);             
-
+		f1.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);     
 	}
 }

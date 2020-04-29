@@ -13,6 +13,8 @@ class Window extends JFrame{
 	public Window(){
 		
 		
+		
+		
 		// Creates the arraylist that'll contain the threads
 		Grid = new ArrayList<ArrayList<DataOfSquare>>();
 		ArrayList<DataOfSquare> data;
